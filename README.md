@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity, C#, ETC...
 - 📫 E-mail = dldjdtjr@gmail.com
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2%20Million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -24,20 +24,20 @@
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               1 hr 38 mins        ██████████████████░░░░░░░   73.33% 
-Python                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
+JavaScript               1 hr 29 mins        █████████████████░░░░░░░░   71.21% 
+Python                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   27.19% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 🔥 에디터들: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
 
 💻 운영 체제들: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.0%
+Windows                  2 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/10/2022 18:54:49 UTC
+ Last Updated on 01/11/2022 18:55:37 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
