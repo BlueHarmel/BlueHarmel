@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueHarmel
 - 👀 I’m interested in GameDev, WebBackend, etc.
-- 🌱 I’m currently learning Unity, C#, ETC...
+- 🌱 I’m currently learning Spring, Java, Kubernetes ETC...
 - 📫 E-mail = dldjdtjr@gmail.com
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2050%20mins-blue)
