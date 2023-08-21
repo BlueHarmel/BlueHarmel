@@ -3,17 +3,17 @@
 - 🌱 I’m currently learning Spring, Java, Kubernetes ETC...
 - 📫 E-mail = dldjdtjr@gmail.com
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-38.5%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-38.4%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-🌆 낮　                     362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-🌃 저녁                     825 commits         ██████████░░░░░░░░░░░░░░░   41.52 % 
-🌙 밤　                     661 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
+🌞 아침                     135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+🌆 낮　                     346 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+🌃 저녁                     771 commits         ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌙 밤　                     587 commits         ████████░░░░░░░░░░░░░░░░░   31.92 % 
 ```
 
 
@@ -34,7 +34,7 @@ Windows                  4 hrs 50 mins       ███████████�
 ```
 
 
- Last Updated on 20/08/2023 18:39:06 UTC
+ Last Updated on 21/08/2023 18:41:20 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
