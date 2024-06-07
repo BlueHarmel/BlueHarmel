@@ -23,17 +23,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   43 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 06/06/2024 18:41:47 UTC
+ Last Updated on 07/06/2024 18:44:26 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
