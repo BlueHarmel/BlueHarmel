@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring, Java, Kubernetes ETC...
 - 📫 E-mail = dldjdtjr@gmail.com
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-46.4%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -11,8 +11,8 @@
 
 ```text
 🌞 아침                     1357 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌆 낮　                     2031 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
-🌃 저녁                     1310 commits        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌆 낮　                     2031 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌃 저녁                     1312 commits        ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
 🌙 밤　                     775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
@@ -35,7 +35,7 @@ Windows                  33 mins             ███████████�
 ```
 
 
- Last Updated on 22/06/2024 18:40:28 UTC
+ Last Updated on 23/06/2024 18:40:21 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
