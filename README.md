@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring, Java, Kubernetes ETC...
 - 📫 E-mail = dldjdtjr@gmail.com
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-46.4%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -23,19 +23,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   2 hrs 38 mins       ████████████████████████░   95.65 % 
-Java                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   2 hrs 41 mins       ████████████████████████░   95.72 % 
+Java                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 38 mins       ████████████████████████░   95.65 % 
-IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+VS Code                  2 hrs 41 mins       ████████████████████████░   95.72 % 
+IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 운영 체제들: 
-Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2024 18:43:06 UTC
+ Last Updated on 26/06/2024 18:45:42 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
