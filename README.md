@@ -2,6 +2,9 @@
 - 👀 I’m interested in GameDev, WebBackend, etc.
 - 🌱 I’m currently learning Spring, Java, Kubernetes ETC...
 - 📫 E-mail = dldjdtjr@gmail.com
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2035%20mins-blue)
 
