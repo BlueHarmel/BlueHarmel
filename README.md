@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Spring, Java, Kubernetes ETC...
 - 📫 E-mail = dldjdtjr@gmail.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
 [![YoungSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueHarmel&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2035%20mins-blue)
