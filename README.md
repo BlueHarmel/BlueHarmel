@@ -7,17 +7,17 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-46.7%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1481 commits        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-🌆 낮　                     2216 commits        █████████░░░░░░░░░░░░░░░░   37.06 % 
-🌃 저녁                     1483 commits        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌙 밤　                     800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+🌞 아침                     1481 commits        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌆 낮　                     2216 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌃 저녁                     1483 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌙 밤　                     804 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 ```
 
 
@@ -41,7 +41,7 @@ Windows                  4 hrs 39 mins       ███████████�
 ```
 
 
- Last Updated on 20/01/2025 18:45:09 UTC
+ Last Updated on 21/01/2025 18:47:20 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
