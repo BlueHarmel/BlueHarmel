@@ -7,6 +7,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2024%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-46.7%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -25,9 +27,9 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-HTML                     1 hr 44 mins        ███████████████░░░░░░░░░░   58.76 % 
-Java                     51 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+HTML                     1 hr 45 mins        ███████████████░░░░░░░░░░   58.75 % 
+Java                     51 mins             ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 Groovy                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
@@ -39,7 +41,7 @@ Windows                  2 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 15/02/2025 18:43:56 UTC
+ Last Updated on 16/02/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
