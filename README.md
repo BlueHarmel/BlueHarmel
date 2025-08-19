@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C082%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C082%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-46.4%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -27,18 +27,18 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-HTML                     19 mins             █████████████░░░░░░░░░░░░   53.93 % 
-Java                     16 mins             ████████████░░░░░░░░░░░░░   46.07 % 
+HTML                     11 mins             ██████████████░░░░░░░░░░░   56.27 % 
+Java                     9 mins              ███████████░░░░░░░░░░░░░░   43.73 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            36 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            20 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/08/2025 19:01:02 UTC
+ Last Updated on 19/08/2025 18:55:08 UTC
 <!--END_SECTION:waka-->
 <!---
 BlueHarmel/BlueHarmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
