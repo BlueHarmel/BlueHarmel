@@ -55,14 +55,54 @@
 
 ---
 
-## 🏅 Algorithm Practice
+## ⏱️ Weekly Development Breakdown
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C394%20hrs%2056%20mins-blue?style=flat)
 
----
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EB%A8%94%EC%97%90%EA%B3%A0-50.11%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-## 🔗 Connect with Me
+**저는 아침형 인간이에요. 🌅** 
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dldjdtjr12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueHarmel)
-[![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://solved.ac/dldjdtjr)
+```text
+🌞 아침                 3090 commits mass░░░░░░░░░░░░░░░░░░░░░░░░   16.80 %
+🌆 낮                  9629 commits ████████████░░░░░░░░░░░░░   52.36 %
+🌃 저녁                 4604 commits ██████░░░░░░░░░░░░░░░░░░░   25.04 %
+🌙 밤                   1067 commits █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+```
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+⌚ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들:
+Java                     14 hrs 35 mins      ████████████████████░░░░░   81.90 %
+Java Properties          1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Properties               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+
+🔥 에디터들:
+IntelliJ IDEA            17 hrs 48 mins      █████████████████████████   100.00 %
+
+💻 운영 체제들:
+Windows                  17 hrs 48 mins      █████████████████████████   100.00 %
+```
+
+ Last Updated on 31/01/2026 18:51:53 UTC
+ <!--END_SECTION:waka-->
+
+ ---
+
+ ## 🏅 Algorithm Practice
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldjdtjr)](https://solved.ac/dldjdtjr/)
+
+ ---
+
+ ## 🔗 Connect with Me
+
+ [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dldjdtjr12@gmail.com)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueHarmel)
+ [![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://solved.ac/dldjdtjr)
