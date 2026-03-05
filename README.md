@@ -58,17 +58,17 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C421%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-51.04%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-41.72%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     3277 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌆 낮　                     10147 commits       █████████████░░░░░░░░░░░░   52.45 % 
-🌃 저녁                     4840 commits        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌙 밤　                     1081 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+🌞 아침                     3270 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+🌆 낮　                     10103 commits       █████████████░░░░░░░░░░░░   52.56 % 
+🌃 저녁                     4780 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌙 밤　                     1068 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -78,24 +78,24 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    8 hrs 21 mins       ████████████████████░░░░░   79.10 % 
-Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    12 hrs 50 mins      ████████████████████████░   94.53 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+textmate                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            9 hrs 30 mins       ██████████████████████░░░   89.97 % 
-Notion                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-WindowsTerminalHost      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JetBrainsGateway         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+IntelliJ IDEA            12 hrs 17 mins      ███████████████████████░░   90.52 % 
+Notion                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+WindowsTerminalHost      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JetBrainsGateway         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 운영 체제들: 
-Windows                  10 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 18:55:33 UTC
+ Last Updated on 05/03/2026 19:07:29 UTC
 <!--END_SECTION:waka-->
 
  ---
