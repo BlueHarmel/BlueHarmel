@@ -58,7 +58,7 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C477%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-51.85%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -78,23 +78,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    27 hrs 14 mins      ████████████████████████░   96.91 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Java Server Page         11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    20 hrs 45 mins      █████████████████████████   98.15 % 
+Java Server Page         11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            26 hrs 14 mins      ███████████████████████░░   93.39 % 
-Notion                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JetBrainsGateway         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-WindowsTerminalHost      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+IntelliJ IDEA            19 hrs 59 mins      ████████████████████████░   94.53 % 
+Notion                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+JetBrainsGateway         22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+WindowsTerminalHost      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 운영 체제들: 
-Windows                  28 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 18:56:35 UTC
+ Last Updated on 17/03/2026 18:57:01 UTC
 <!--END_SECTION:waka-->
 
  ---
