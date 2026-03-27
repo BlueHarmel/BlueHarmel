@@ -58,7 +58,7 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C508%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C515%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-51.91%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -66,9 +66,9 @@
 
 ```text
 🌞 아침                     3367 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-🌆 낮　                     10383 commits       █████████████░░░░░░░░░░░░   52.64 % 
+🌆 낮　                     10386 commits       █████████████░░░░░░░░░░░░   52.65 % 
 🌃 저녁                     4892 commits        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌙 밤　                     1082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+🌙 밤　                     1082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 
 
@@ -78,24 +78,24 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    23 hrs 20 mins      ████████████████████████░   95.96 % 
-Java Server Page         36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    20 hrs 48 mins      ████████████████████████░   95.78 % 
+Java Server Page         36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            21 hrs 44 mins      ██████████████████████░░░   89.38 % 
-Notion                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-WindowsTerminalHost      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-JetBrainsGateway         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+IntelliJ IDEA            18 hrs 46 mins      ██████████████████████░░░   86.38 % 
+Notion                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+JetBrainsGateway         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+WindowsTerminalHost      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 운영 체제들: 
-Windows                  24 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 18:57:44 UTC
+ Last Updated on 27/03/2026 18:56:33 UTC
 <!--END_SECTION:waka-->
 
  ---
