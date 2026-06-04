@@ -78,23 +78,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    4 hrs 35 mins       ██████████████████░░░░░░░   70.25 % 
-Python                   1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    3 hrs 46 mins       ██████████████████░░░░░░░   71.51 % 
+Python                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 에디터들: 
-Notion                   3 hrs 48 mins       ███████████████░░░░░░░░░░   58.18 % 
-Unknown Editor           2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.65 % 
-JetBrainsGateway         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-IntelliJ IDEA            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Notion                   3 hrs 4 mins        ███████████████░░░░░░░░░░   58.48 % 
+Unknown Editor           1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+JetBrainsGateway         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 💻 운영 체제들: 
-Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2026 19:54:08 UTC
+ Last Updated on 04/06/2026 19:24:42 UTC
 <!--END_SECTION:waka-->
 
  ---
