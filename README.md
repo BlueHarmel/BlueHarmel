@@ -58,7 +58,7 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C746%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-51.40%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -78,24 +78,25 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
-TypeScript               2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Python                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-CSS                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+TypeScript               3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Other                    2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+CSS                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Python                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 🔥 에디터들: 
-Unknown Editor           6 hrs 59 mins       ██████████████████░░░░░░░   73.35 % 
-Notion                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-JetBrainsGateway         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-IntelliJ IDEA            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Unknown Editor           8 hrs 40 mins       ██████████████████░░░░░░░   70.12 % 
+Notion                   1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+VS Code                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JetBrainsGateway         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 운영 체제들: 
-Windows                  9 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2026 19:15:52 UTC
+ Last Updated on 06/06/2026 19:00:01 UTC
 <!--END_SECTION:waka-->
 
  ---
