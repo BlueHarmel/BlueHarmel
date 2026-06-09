@@ -58,45 +58,12 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C746%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C751%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-13.24%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     3018 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-🌆 낮　                     9487 commits        ██████████████░░░░░░░░░░░   54.95 % 
-🌃 저녁                     3773 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-🌙 밤　                     987 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-```
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-13.14%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
-CSS                      2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Python                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-
-🔥 에디터들: 
-Unknown Editor           10 hrs 42 mins      █████████████████░░░░░░░░   69.70 % 
-VS Code                  3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Notion                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JetBrainsGateway         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
-💻 운영 체제들: 
-Windows                  15 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/06/2026 19:34:51 UTC
+ Last Updated on 09/06/2026 19:35:55 UTC
 <!--END_SECTION:waka-->
 
  ---
