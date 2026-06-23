@@ -80,7 +80,7 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-13.38%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -100,22 +100,25 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    3 hrs 20 mins       ███████████████████████░░   93.70 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Other                    2 hrs 37 mins       ███████████████████░░░░░░   74.46 % 
+TOML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+PowerShell               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Git                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🔥 에디터들: 
-Notion                   1 hr 41 mins        ████████████░░░░░░░░░░░░░   47.55 % 
-JetBrainsGateway         48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Unknown Wakatime         30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Unknown Editor           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Notion                   1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   39.59 % 
+Unknown Editor           1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.64 % 
+JetBrainsGateway         48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 운영 체제들: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2026 20:00:35 UTC
+ Last Updated on 23/06/2026 19:33:17 UTC
 <!--END_SECTION:waka-->
 
  ---
