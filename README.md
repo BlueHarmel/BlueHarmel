@@ -80,12 +80,43 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C782%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C786%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-51.61%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-51.64%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+**저는 아침형 인간이에요. 🐤** 
+
+```text
+🌞 아침                     3301 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+🌆 낮　                     10239 commits       ██████████████░░░░░░░░░░░   54.28 % 
+🌃 저녁                     4226 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+🌙 밤　                     1097 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+```
 
 
- Last Updated on 29/06/2026 19:19:02 UTC
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Java                     10 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
+Markdown                 9 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
+Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+HTML                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+XML                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+
+🔥 에디터들: 
+Claude Code              23 hrs 30 mins      ██████████████████████░░░   88.35 % 
+Notion                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Unknown Editor           1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+
+💻 운영 체제들: 
+Windows                  26 hrs 36 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/06/2026 19:14:15 UTC
 <!--END_SECTION:waka-->
 
  ---
