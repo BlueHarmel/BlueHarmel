@@ -80,40 +80,10 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-13.59%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     3376 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-🌆 낮　                     10557 commits       ██████████████░░░░░░░░░░░   55.47 % 
-🌃 저녁                     4086 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-🌙 밤　                     1012 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-```
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-27.38%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Other                    3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.78 % 
-Markdown                 3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Text                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-TypeScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Java                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-
-🔥 에디터들: 
-Claude Code              10 hrs 18 mins      ████████████████████████░   94.77 % 
-Notion                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-
-💻 운영 체제들: 
-Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/07/2026 20:14:01 UTC
+ Last Updated on 24/07/2026 20:11:17 UTC
 <!--END_SECTION:waka-->
 
  ---
