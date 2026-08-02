@@ -84,15 +84,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-13.77%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-14.07%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     3460 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-🌆 낮　                     10793 commits       ██████████████░░░░░░░░░░░   55.62 % 
-🌃 저녁                     4137 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-🌙 밤　                     1014 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+🌞 아침                     3658 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+🌆 낮　                     10930 commits       ██████████████░░░░░░░░░░░   54.98 % 
+🌃 저녁                     4267 commits        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+🌙 밤　                     1024 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
 
@@ -124,11 +124,11 @@ Windows                  24 hrs 10 mins      ███████████�
 
 ✍️ 45,789 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,340,321,340 Input Tokens, 2,626,900 Output Tokens
+🔤 1,337,258,465 Input Tokens, 2,626,261 Output Tokens
 
 💵 $5261.68 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 177 AI Prompts
+🧠 32 AI Sessions, 174 AI Prompts
 
 Opus                     28,411 lines        ████████████████░░░░░░░░░   65.56 % 
 GPT                      14,924 lines        █████████░░░░░░░░░░░░░░░░   34.44 % 
@@ -137,13 +137,13 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,931 characters per prompt
+📚 Verbose Prompter — average 7,045 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 20:01:07 UTC
+ Last Updated on 02/08/2026 20:00:54 UTC
 <!--END_SECTION:waka-->
 
  ---
