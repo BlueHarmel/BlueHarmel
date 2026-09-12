@@ -80,19 +80,19 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-443%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-450%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-27.24%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-27.26%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     7438 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-🌆 낮　                     25651 commits       ████████████████░░░░░░░░░   64.18 % 
-🌃 저녁                     5715 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-🌙 밤　                     1161 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+🌞 아침                     7451 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌆 낮　                     25659 commits       ████████████████░░░░░░░░░   64.17 % 
+🌃 저녁                     5718 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+🌙 밤　                     1161 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 
@@ -143,7 +143,7 @@ Opus                     1,084 lines         █░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/09/2026 19:02:32 UTC
+ Last Updated on 12/09/2026 18:58:09 UTC
 <!--END_SECTION:waka-->
 
  ---
