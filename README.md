@@ -80,19 +80,19 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-552%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-569%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-71.59%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-85.09%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     14408 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-🌆 낮　                     42948 commits       ███████████████░░░░░░░░░░   59.76 % 
-🌃 저녁                     11339 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-🌙 밤　                     3173 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+🌞 아침                     16096 commits       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌆 낮　                     46914 commits       ███████████████░░░░░░░░░░   59.14 % 
+🌃 저녁                     12862 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+🌙 밤　                     3450 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -102,51 +102,52 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   24 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Other                    21 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-C#                       19 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Markdown                 16 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-HTML                     4 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Python                   36 hrs              █████████░░░░░░░░░░░░░░░░   37.11 % 
+Other                    21 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+C#                       19 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Markdown                 11 hrs 28 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+HTML                     4 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 에디터들: 
-Codex CLI                70 hrs 25 mins      ███████████████████░░░░░░   77.87 % 
-Claude Code              9 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Orca                     9 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-ChatGPT                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Antigravity CLI          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Codex CLI                78 hrs 7 mins       ████████████████████░░░░░   80.51 % 
+Claude Code              11 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Orca                     6 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Antigravity CLI          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 운영 체제들: 
-Mac                      90 hrs 19 mins      █████████████████████████   99.86 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Mac                      96 hrs 58 mins      █████████████████████████   99.94 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 86 hrs 16 mins (95.39%)
+⏱ AI Coding Time: 92 hrs 51 mins (95.69%)
 
-✍️ 25,940 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21,822 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 89,585,605 Input Tokens, 20,359,184 Output Tokens
+🔤 92,400,935 Input Tokens, 18,410,316 Output Tokens
 
-💵 $4102.07 Estimated AI Cost This Week
+💵 $3355.91 Estimated AI Cost This Week
 
-🧠 194 AI Sessions, 1222 AI Prompts
+🧠 208 AI Sessions, 1491 AI Prompts
 
-GPT                      18,975 lines        ██████████████████░░░░░░░   72.91 % 
-Codex-Cli                3,214 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Opus                     2,349 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Gemini                   1,487 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+GPT                      16,723 lines        ███████████████████░░░░░░   76.34 % 
+Opus                     2,205 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Gemini                   1,873 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Codex-Cli                1,106 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,128 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 3,883 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 22:19:14 UTC
+ Last Updated on 11/10/2026 22:40:44 UTC
 <!--END_SECTION:waka-->
 
  ---
